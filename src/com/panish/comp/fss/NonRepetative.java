@@ -1,4 +1,4 @@
-package fss;
+package com.panish.comp.fss;
 
 public class NonRepetative {
 

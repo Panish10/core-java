@@ -1,4 +1,4 @@
-package com.test;
+package com.panish.test;
 
 public class PowExample {
 

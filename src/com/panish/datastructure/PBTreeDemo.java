@@ -1,4 +1,4 @@
-package com.datastructure;
+package com.panish.datastructure;
 
 /*
  *          1                                 1

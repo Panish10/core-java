@@ -1,4 +1,4 @@
-package com.algorithm.sorting;
+package com.panish.sorting;
 
 /*
  * Insertion sort is a simple sorting algorithm that works similar to the way you sort 

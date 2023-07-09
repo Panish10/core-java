@@ -1,4 +1,4 @@
-package com.algorithm.sorting;
+package com.panish.sorting;
 
 /*
  * Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the 

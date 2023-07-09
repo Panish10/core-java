@@ -1,4 +1,4 @@
-package com.test;
+package com.panish.test;
 
 public class BinarNumber {
 	public static void main(String[] args) {

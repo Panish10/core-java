@@ -1,4 +1,4 @@
-package com.algorithm.searching;
+package com.panish.searching;
 
 public class LinearSearch {
 	

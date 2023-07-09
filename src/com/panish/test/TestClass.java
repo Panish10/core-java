@@ -1,4 +1,4 @@
-package com.test;
+package com.panish.test;
 
 import java.io.BufferedReader;
 import java.io.IOException;

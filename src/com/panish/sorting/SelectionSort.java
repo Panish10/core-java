@@ -1,4 +1,4 @@
-package com.algorithm.sorting;
+package com.panish.sorting;
 
 /*
  * How does Selection Sort work?

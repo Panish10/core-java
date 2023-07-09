@@ -1,4 +1,4 @@
-package maveric;
+package com.panish.comp.maveric;
 
 import java.util.*;
 import java.util.stream.Collectors;

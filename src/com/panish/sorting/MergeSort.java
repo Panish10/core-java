@@ -1,4 +1,4 @@
-package com.algorithm.sorting;
+package com.panish.sorting;
 
 /*
  *  Merge Sort is a Divide and Conquer algorithm. It divides the input array into two halves, 

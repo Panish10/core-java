@@ -1,4 +1,4 @@
-package com.thread;
+package com.panish.thread;
 
 import java.math.BigInteger;
 import java.util.concurrent.locks.Lock;

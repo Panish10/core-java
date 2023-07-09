@@ -1,4 +1,4 @@
-package com.algorithm.sorting;
+package com.panish.sorting;
 
 public class InsertionSortRecursive {
 	public static void main(String[] args) {

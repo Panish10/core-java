@@ -1,4 +1,4 @@
-package com.datastructure;
+package com.panish.datastructure;
 
 public class PDLinkedList {
 	
