@@ -2,6 +2,9 @@ package com.panish.searching.linearsearch;
 
 import java.util.Arrays;
 
+/*
+ * Search the element in array
+ * */
 public class TwoDimensional {
 
     public static void main(String[] args) {
