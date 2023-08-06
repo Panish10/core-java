@@ -2,6 +2,7 @@ package com.panish.searching.binarysearch;
 
 /*
 *  Source: leetcode.com
+*  774. Find Smallest Letter Greater Than Target
 *  Given a character array letters that is sorted in non-decreasing order(sorted in ascending order) and a character target,
 *  return the smallest character in the array that is larger than target.
 *
