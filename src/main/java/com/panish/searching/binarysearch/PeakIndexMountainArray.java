@@ -23,7 +23,7 @@ public class PeakIndexMountainArray {
     }
 
     private static void case3() {
-        int[] arr = {0,10, 12, 11, 5,2};
+        int[] arr = {0, 10, 12, 11, 5, 2};
         System.out.println(peakIndexInMountainArray(arr));
     }
 
