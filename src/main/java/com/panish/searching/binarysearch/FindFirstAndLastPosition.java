@@ -22,9 +22,12 @@ public class FindFirstAndLastPosition {
 
     private static int[] searchRange(int[] nums, int target) {
 
-        int fistIndex = search(nums, target, true);
-        int lastIndex = search(nums, target, false);
-        return new int[] {fistIndex, lastIndex};
+        int[] ans = {-1, -1};
+        // check for the fist occurrence
+        ans[0] = search(nums, target, true);
+        if (ans[0] != -1)
+        ans[1] = search(nums, target, false);
+        return ans;
     }
 
     private static int search(int[] nums, int target, boolean findFirstIndex) {
