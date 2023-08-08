@@ -28,7 +28,7 @@ public class CeilingOfTargetNumber {
         int start = 0;
         int end = ary.length - 1;
 
-        // Check if tarter is greater than all element
+        // Check if target is greater than all element
         if (target > ary[end]) return -1;
 
         while (start <= end) {
