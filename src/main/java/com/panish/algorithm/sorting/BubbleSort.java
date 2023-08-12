@@ -1,8 +1,13 @@
-package com.panish.sort;
+package com.panish.algorithm.sorting;
 
 import java.util.Arrays;
 import java.util.Random;
 
+/*
+ * Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the
+ * adjacent elements if they are in wrong order.
+ * Bubble the large element at the end of the array
+ * */
 public class BubbleSort {
 
     public static void main(String[] args) {

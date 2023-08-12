@@ -1,4 +1,4 @@
-package com.panish.searching.binarysearch.onedimensional;
+package com.panish.algorithm.searching.binarysearch.onedimensional;
 
 /*
 * Binary search is always work on sorted array

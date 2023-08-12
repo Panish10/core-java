@@ -1,9 +1,14 @@
-package com.panish.sort;
+package com.panish.algorithm.sorting;
 
 import java.util.Arrays;
 import java.util.Random;
 
-public class InsertionSort1 {
+/*
+ * Insertion sorting is a simple sorting algorithm that works similar to the way you sorting
+ * playing cards in your hands. The array is virtually split into a sorted and an unsorted part.
+ * Values from the unsorted part are picked and placed at the correct position in the sorted part.
+ * */
+public class InsertionSort {
 
     public static void main(String[] args) {
 

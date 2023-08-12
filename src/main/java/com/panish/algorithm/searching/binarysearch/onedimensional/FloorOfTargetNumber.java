@@ -1,4 +1,4 @@
-package com.panish.searching.binarysearch.onedimensional;
+package com.panish.algorithm.searching.binarysearch.onedimensional;
 
 /**
  * Find the Floor of target Number i.e. find the greatest element which is less then or equal to target element

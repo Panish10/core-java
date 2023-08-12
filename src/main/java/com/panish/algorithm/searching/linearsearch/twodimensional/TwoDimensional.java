@@ -1,4 +1,4 @@
-package com.panish.searching.linearsearch.twodimensional;
+package com.panish.algorithm.searching.linearsearch.twodimensional;
 
 import java.util.Arrays;
 

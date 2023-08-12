@@ -1,4 +1,4 @@
-package com.panish.searching.linearsearch.onedimensional;
+package com.panish.algorithm.searching.linearsearch.onedimensional;
 
 /*
 * Search the element in array
