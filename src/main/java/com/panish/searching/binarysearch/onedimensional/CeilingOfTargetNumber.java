@@ -1,4 +1,4 @@
-package com.panish.searching.binarysearch;
+package com.panish.searching.binarysearch.onedimensional;
 
 /**
  * Find the Ceiling of target Number i.e. find the smallest element which is greater then or equal to target element

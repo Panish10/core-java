@@ -1,4 +1,4 @@
-package com.panish.searching.binarysearch;
+package com.panish.searching.binarysearch.onedimensional;
 
 /**
  * Source: leetcode.com
