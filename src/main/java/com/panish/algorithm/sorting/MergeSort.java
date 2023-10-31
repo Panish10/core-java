@@ -14,8 +14,8 @@ public class MergeSort {
 
     public static void main(String[] args) {
 
-        int arraySize = 10000000;
-        int boundary  = 10000;
+        int arraySize = 10;
+        int boundary  = 100;
         int[] inputArray = new int[arraySize];
         Random random = new Random();
         for(int i = 0; i < inputArray.length; i++) {
