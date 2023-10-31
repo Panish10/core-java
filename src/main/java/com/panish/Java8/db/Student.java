@@ -50,4 +50,13 @@ public class Student {
     public int hashCode() {
         return Objects.hash(name, city, salary);
     }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", city='" + city + '\'' +
+                ", salary=" + salary +
+                '}';
+    }
 }
