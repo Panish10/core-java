@@ -9,5 +9,8 @@ public class ThreadTest {
 	ReentrantReadWriteLock reentrantLock = new ReentrantReadWriteLock();
 	Lock readLock = reentrantLock.readLock();
 	public static void main(String[] args) {
+
+		int count = Runtime.getRuntime().availableProcessors();
+		System.out.println(count);
 	}
 }
