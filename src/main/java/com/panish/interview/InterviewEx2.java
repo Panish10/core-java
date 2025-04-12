@@ -1,4 +1,4 @@
-package main.java.com.panish.interview;
+package com.panish.interview;
 
 public class InterviewEx2 {
     public static void main(String[] args) {
@@ -6,6 +6,6 @@ public class InterviewEx2 {
         i = 20;
         int j = i + 20;
         // i = j + 30; compile-time error
-        System.out.println(i + "" + j);
+        System.out.println(i + " " + j);
     }
 }

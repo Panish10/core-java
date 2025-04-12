@@ -1,0 +1,31 @@
+<PostRqType Version="1.5.0"
+            xmlns:ns2="http://www.w3.org/2005/08/addressing"
+            xmlns:ns3="http://www.w3.org/2000/09/xmldsig#"
+            xmlns:ns4="http://www.w3.org/2001/04/xmlenc#"
+            xmlns:ns5="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd"
+            xmlns:ns6="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:ns7="http://www.ACORD.org/Standards/AcordMsgSvc/1">
+    <ns7:Sender>
+        <ns7:PartyId>urn:svu:CHARTISBROK_HQ</ns7:PartyId>
+        <ns7:PartyRoleCd>Broker</ns7:PartyRoleCd>
+    </ns7:Sender>
+    <ns7:Receiver>
+        <ns7:PartyId>urn:svu:CHARTIS_DEV2</ns7:PartyId>
+        <ns7:PartyRoleCd>Underwriter</ns7:PartyRoleCd>
+    </ns7:Receiver>
+    <ns7:Application>
+        <ns7:ApplicationCd>SVU_SF_BIZPACK</ns7:ApplicationCd>
+        <ns7:SchemaVersion>urn:svu:sf_bizpack:2:0:0</ns7:SchemaVersion>
+    </ns7:Application>
+    <ns7:TimeStamp>2024-05-24T15:38:02.388+05:30</ns7:TimeStamp>
+    <ns7:MsgItem>
+        <ns7:MsgId>8e167287-a006-4b23-a801-5236eddcccf6</ns7:MsgId>
+        <ns7:MsgReference>SB01940020</ns7:MsgReference>
+        <ns7:MsgTypeCd>PolicyNewBusinessQuotationProcess_RequestForQuotation</ns7:MsgTypeCd>
+    </ns7:MsgItem>
+    <ns7:WorkFolder>
+        <ns7:MsgFile>
+            <ns7:FileId>cid:134473bb-49e7-426c-b51c-26c50638dd30</ns7:FileId>
+            <ns7:FileFormatCd>text/xml; charset=utf-8</ns7:FileFormatCd>
+        </ns7:MsgFile>
+    </ns7:WorkFolder>
+</PostRqType>

@@ -1,4 +1,4 @@
-package main.java.com.panish.interview;
+package com.panish.interview;
 
 public class Barn {
     public static void main(String[] args) {
