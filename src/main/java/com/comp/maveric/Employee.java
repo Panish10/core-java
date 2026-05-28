@@ -1,4 +1,4 @@
-package com.panish.comp.maveric;
+package com.comp.maveric;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package com.panish.comp.mdocs;
+package com.comp.mdocs;
 
 import java.util.Arrays;
 import java.util.List;

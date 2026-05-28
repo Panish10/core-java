@@ -1,4 +1,4 @@
-package com.panish.comp.congni;
+package com.comp.congni;
 
 import java.util.ArrayList;
 import java.util.Arrays;

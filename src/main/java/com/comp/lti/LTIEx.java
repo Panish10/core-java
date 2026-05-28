@@ -1,4 +1,4 @@
-package com.panish.comp.lti;
+package com.comp.lti;
 
 import java.util.*;
 import java.util.stream.Collectors;

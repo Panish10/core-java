@@ -1,4 +1,4 @@
-package com.panish.comp.hcl;
+package com.comp.hcl;
 
 import java.util.HashMap;
 import java.util.Map;
